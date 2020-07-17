@@ -1,7 +1,7 @@
 {
-	"name": "WoW Armory Discord Bot",
-	"description": "Discord bot which displays notable PVE/PVP achievements and progress.",
-	"repository": "https://github.com/JamesIves/discord-wow-armory-bot",
+	"name": "VOID Armory",
+	"description": "Exibe realizações e progresso notáveis de PVE/PVP.",
+	"repository": "https://github.com/dgateles/discord-wow-armory-bot",
 	"keywords": [
 		"python",
 		"python3",
